@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dulce pasión
+
+This log tracks the cryptographic history and versioning for the song **Dulce pasión** (dulce-pasion).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T12:36:53.789875 | `v1` | `3f214816910fa6db1bff024a23a92c6f2a339ce237957e75bb586e66047bb268` | `9c63909756277d49c3431e9b5025638ab9d00d4c043224f2d664adee632e4c01` | `2026-06-23_dulce-pasion-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

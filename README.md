@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Dulce pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-pasion/) |
+| **Get License** | [Get a Licensing Quote for Dulce pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3f214816910fa6db1bff024a23a92c6f2a339ce237957e75bb586e66047bb268` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
