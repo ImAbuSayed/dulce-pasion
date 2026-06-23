@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Dulce pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-pasion/) |
+| **Get License** | [Music Rights & Licensing for Dulce pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Quiero sentir tu cuerpo lento en la oscuridad
+> Dime si esta noche tú te escapas de la ciudad
+> Tú y yo perdiéndonos con alta velocidad
+> Bebé, tú eres mi vicio, mi dulce pasión y verdad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
